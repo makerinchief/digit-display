@@ -8,6 +8,8 @@
 - 1 x Nano Breakout Board with headers for NRF2401 Module
 - 7 x 3 WS2812b LED segments
 - Digit Display PCB kit
+- 1 x JST SM Male Connector Pigtail
+- 1 x JST SM Female Connector Pigtail
 
 ### TOOLS NEEDED
 
