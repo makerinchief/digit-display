@@ -1,3 +1,14 @@
+/*
+  Digit Dispaly
+  Justin C Kirk
+
+  Makerinchief 
+  www.makerinchief.com
+  info@makerinchief.com
+
+  Please read README.md for details
+*/
+
 #include <FastLED.h>
 #include "colors.h"
 
